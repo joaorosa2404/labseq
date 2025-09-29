@@ -1,0 +1,3 @@
+labseq\LabseqApp.class
+labseq\service\LabseqService.class
+labseq\controller\LabseqController.class
