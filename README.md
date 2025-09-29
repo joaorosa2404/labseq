@@ -4,7 +4,7 @@ Pré requisitos:
 
 Como executar:
 - Abrir um terminal na pasta do projeto;
-- Executar o comando "mvnw quarkus:dev" para corer em modo de desenvolvimento;
+- Executar o comando "mvnw quarkus:dev" para correr em modo de desenvolvimento;
 - Executar "http://localhost:8080/labseq" no navegador.
 
 Endpoints:
